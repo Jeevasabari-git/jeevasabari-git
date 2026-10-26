@@ -24,6 +24,6 @@ I'm a passionate DevOps Engineer with 1 years** of experience in building and op
 
 ## 📫 Connect with me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/jeeva-sabari-9a2721338
 - Email: jeevasabari12@gmail.com
 
